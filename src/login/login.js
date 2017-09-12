@@ -11,7 +11,7 @@ class Login extends Component {
   }
 
   handleChange(event) {
-    console.log(event.target.value )
+    console.log(event.target.value );
     //this.setState({ value: event.target.value });
     this.setState({value: event.target.value.toUpperCase()});
   }
