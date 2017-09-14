@@ -3,25 +3,24 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom'; 
 import { TabBar, Icon } from 'antd-mobile';
 
-import film_normal from './resources/film_normal.png';
-import film_selected from './resources/film_selected.png';
+import filmNormal from './resources/film_normal.png';
+import filmSelected from './resources/film_selected.png';
 
-import discovery_normal from './resources/discovery_normal.png';
-import discovery_selected from './resources/discovery_selected.png';
+import discoveryNormal from './resources/discovery_normal.png';
+import discoverySelected from './resources/discovery_selected.png';
 
-import cinema_normal from './resources/cinema_normal.png';
-import cinema_selected from './resources/cinema_selected.png';
+import cinemaNormal from './resources/cinema_normal.png';
+import cinemaSelected from './resources/cinema_selected.png';
 
-
-import mine_normal from './resources/mine_normal.png';
-import mine_selected from './resources/mine_selected.png';
+import mineNormal from './resources/mine_normal.png';
+import mineSelected from './resources/mine_selected.png';
 
 
 class Home extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedTab: 'redTab',
+      selectedTab: 'filmTab',
       hidden: false,
     };
   }
@@ -56,14 +55,16 @@ class Home extends React.Component {
           title="电影"
           key="电影"
     
-          icon={{ uri: film_normal}}
-          selectedIcon={{ uri: film_selected }}
+          icon={{ uri: filmNormal}}
+          selectedIcon={{ uri: filmSelected }}
           
-          selected={this.state.selectedTab === 'blueTab'}
-          badge={1}
+          selected={this.state.selectedTab === 'filmTab'}
+          /**
+           * badge={1}
+           */
           onPress={() => {
             this.setState({
-              selectedTab: 'blueTab',
+              selectedTab: 'filmTab',
             });
           }}
           data-seed="logId"
@@ -71,15 +72,15 @@ class Home extends React.Component {
           {this.renderContent('电影')}
         </TabBar.Item>
         <TabBar.Item
-          icon={{uri:cinema_normal}}
-          selectedIcon={{uri:cinema_selected}}
+          icon={{uri:cinemaNormal}}
+          selectedIcon={{uri:cinemaSelected}}
           title="影院"
           key="影院"
-          badge={'new'}
-          selected={this.state.selectedTab === 'redTab'}
+          /**badge={'new'}**/
+          selected={this.state.selectedTab === 'cinemaTab'}
           onPress={() => {
             this.setState({
-              selectedTab: 'redTab',
+              selectedTab: 'cinemaTab',
             });
           }}
           data-seed="logId1"
@@ -87,29 +88,31 @@ class Home extends React.Component {
           {this.renderContent('影院')}
         </TabBar.Item>
         <TabBar.Item
-             icon={{uri:discovery_normal}}
-          selectedIcon={{uri:discovery_selected}}
+             icon={{uri:discoveryNormal}}
+          selectedIcon={{uri:discoverySelected}}
           title="发现"
           key="发现"
-          dot
-          selected={this.state.selectedTab === 'greenTab'}
+          /**
+           * dot
+           */
+          selected={this.state.selectedTab === 'discoveryTab'}
           onPress={() => {
             this.setState({
-              selectedTab: 'greenTab',
+              selectedTab: 'discoveryTab',
             });
           }}
         >
           {this.renderContent('发现')}
         </TabBar.Item>
         <TabBar.Item
-          icon={{ uri: mine_normal }}
-          selectedIcon={{ uri: mine_selected }}
+          icon={{ uri: mineNormal }}
+          selectedIcon={{ uri: mineSelected }}
           title="我的"
           key="我的"
-          selected={this.state.selectedTab === 'yellowTab'}
+          selected={this.state.selectedTab === 'mineTab'}
           onPress={() => {
             this.setState({
-              selectedTab: 'yellowTab',
+              selectedTab: 'mineTab',
             });
           }}
         >
