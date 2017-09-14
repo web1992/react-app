@@ -3,6 +3,20 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom'; 
 import { TabBar, Icon } from 'antd-mobile';
 
+import film_normal from './resources/film_normal.png';
+import film_selected from './resources/film_selected.png';
+
+import discovery_normal from './resources/discovery_normal.png';
+import discovery_selected from './resources/discovery_selected.png';
+
+import cinema_normal from './resources/cinema_normal.png';
+import cinema_selected from './resources/cinema_selected.png';
+
+
+import mine_normal from './resources/mine_normal.png';
+import mine_selected from './resources/mine_selected.png';
+
+
 class Home extends React.Component {
   constructor(props) {
     super(props);
@@ -39,20 +53,12 @@ class Home extends React.Component {
         hidden={this.state.hidden}
       >
         <TabBar.Item
-          title="生活"
-          key="生活"
-          icon={<div style={{
-            width: '0.44rem',
-            height: '0.44rem',
-            background: 'url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  0.42rem 0.42rem no-repeat' }}
-          />
-          }
-          selectedIcon={<div style={{
-            width: '0.44rem',
-            height: '0.44rem',
-            background: 'url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  0.42rem 0.42rem no-repeat' }}
-          />
-          }
+          title="电影"
+          key="电影"
+    
+          icon={{ uri: film_normal}}
+          selectedIcon={{ uri: film_selected }}
+          
           selected={this.state.selectedTab === 'blueTab'}
           badge={1}
           onPress={() => {
@@ -62,13 +68,13 @@ class Home extends React.Component {
           }}
           data-seed="logId"
         >
-          {this.renderContent('生活')}
+          {this.renderContent('电影')}
         </TabBar.Item>
         <TabBar.Item
-          icon={<Icon type="koubei-o" size="md" />}
-          selectedIcon={<Icon type="koubei" size="md" />}
-          title="口碑"
-          key="口碑"
+          icon={{uri:cinema_normal}}
+          selectedIcon={{uri:cinema_selected}}
+          title="影院"
+          key="影院"
           badge={'new'}
           selected={this.state.selectedTab === 'redTab'}
           onPress={() => {
@@ -78,25 +84,13 @@ class Home extends React.Component {
           }}
           data-seed="logId1"
         >
-          {this.renderContent('口碑')}
+          {this.renderContent('影院')}
         </TabBar.Item>
         <TabBar.Item
-          icon={
-            <div style={{
-              width: '0.44rem',
-              height: '0.44rem',
-              background: 'url(https://zos.alipayobjects.com/rmsportal/psUFoAMjkCcjqtUCNPxB.svg) center center /  0.42rem 0.42rem no-repeat' }}
-            />
-          }
-          selectedIcon={
-            <div style={{
-              width: '0.44rem',
-              height: '0.44rem',
-              background: 'url(https://zos.alipayobjects.com/rmsportal/IIRLrXXrFAhXVdhMWgUI.svg) center center /  0.42rem 0.42rem no-repeat' }}
-            />
-          }
-          title="朋友"
-          key="朋友"
+             icon={{uri:discovery_normal}}
+          selectedIcon={{uri:discovery_selected}}
+          title="发现"
+          key="发现"
           dot
           selected={this.state.selectedTab === 'greenTab'}
           onPress={() => {
@@ -105,11 +99,11 @@ class Home extends React.Component {
             });
           }}
         >
-          {this.renderContent('朋友')}
+          {this.renderContent('发现')}
         </TabBar.Item>
         <TabBar.Item
-          icon={{ uri: 'https://zos.alipayobjects.com/rmsportal/asJMfBrNqpMMlVpeInPQ.svg' }}
-          selectedIcon={{ uri: 'https://zos.alipayobjects.com/rmsportal/gjpzzcrPMkhfEqgbYvmN.svg' }}
+          icon={{ uri: mine_normal }}
+          selectedIcon={{ uri: mine_selected }}
           title="我的"
           key="我的"
           selected={this.state.selectedTab === 'yellowTab'}
