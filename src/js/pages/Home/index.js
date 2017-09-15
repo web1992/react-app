@@ -2,6 +2,7 @@
 import React, { Component } from 'react';  
 import ReactDOM from 'react-dom'; 
 import { TabBar, Icon } from 'antd-mobile';
+import 'antd-mobile/dist/antd-mobile.css';  // or 'antd-mobile/dist/antd-mobile.less'
 
 import filmNormal from './resources/film_normal.png';
 import filmSelected from './resources/film_selected.png';
