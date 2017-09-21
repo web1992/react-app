@@ -17,6 +17,8 @@ import mineNormal from './resources/mine_normal.png';
 import mineSelected from './resources/mine_selected.png';
 
 
+import Film from  '../Film/index';
+
 class Home extends React.Component {
   constructor(props) {
     super(props);
@@ -27,6 +29,10 @@ class Home extends React.Component {
   }
 
   renderContent(pageText) {
+
+    if('filmTab' == pageText){
+      return(<Film />);
+    }
     return (
       <div style={{ backgroundColor: 'white', height: '100%', textAlign: 'center' }}>
         <div style={{ paddingTop: 60 }}>你已点击{pageText} tab， 当前展示{pageText}信息</div>
@@ -70,7 +76,7 @@ class Home extends React.Component {
           }}
           data-seed="logId"
         >
-          {this.renderContent('电影')}
+          {this.renderContent('filmTab')}
         </TabBar.Item>
         <TabBar.Item
           icon={{uri:cinemaNormal}}

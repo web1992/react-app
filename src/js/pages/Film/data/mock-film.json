@@ -1,0 +1,1872 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "《猩球崛起3》特惠抢票，名额有限抢完即止",
+                        "id": "23593",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：9月6日-9月22日每日10：00-24：00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "美国",
+                "derivationList": [
+                    {
+                        "advertiseType": "16",
+                        "id": "9571",
+                        "label": "热评",
+                        "links": "https://h5.m.taopiaopiao.com/app/dianying/pages/alfheim/content.html?id=15054&s=dy&spm=dianying.dy_15054.30.1&cityCode=310100",
+                        "title": "猩猩爸爸教你做人"
+                    },
+                    {
+                        "advertiseType": "16",
+                        "id": "9485",
+                        "label": "解析",
+                        "links": "https://h5.m.taopiaopiao.com/app/dianying/pages/alfheim/content.html?id=14774&s=dy&spm=dianying.dy_14774.30.1&cityCode=310100",
+                        "title": "这一次，跟凯撒说再见"
+                    }
+                ],
+                "director": "马特·里夫斯",
+                "duration": "140",
+                "fantastic": "18",
+                "fromSearch": "false",
+                "id": "179611",
+                "leadingRole": "安迪·瑟金斯,伍迪·哈里森,卡琳·考诺娃,阿米尔·米勒,史蒂夫·茨恩,泰瑞·诺塔里,朱迪·格雷尔",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i4/TB1SjYYSpXXXXaBapXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62916588"
+                    }
+                ],
+                "remark": "8.3",
+                "showMark": "IMAX3D",
+                "showName": "猩球崛起3：终极之战",
+                "showNameEn": "War for the Planet of the Apes",
+                "soldType": "NORMAL",
+                "type": "动作,剧情,冒险",
+                "wantCount": "388669"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "18.8元起",
+                        "activityTitle": "《王牌保镖》18.8元起抢票活动，抢完即止！",
+                        "id": "24561",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月19日-9月24日，每日10点-20点，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "美国",
+                "director": "派特里克·休斯",
+                "duration": "110",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "223765",
+                "leadingRole": "瑞安·雷诺兹,塞缪尔·杰克逊,加里·奥德曼,萨尔玛·海耶克,艾洛蒂·袁",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i3/TB1DBrncywIL1JjSZFsXXcXFFXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63710207"
+                    }
+                ],
+                "remark": "8.6",
+                "showName": "王牌保镖",
+                "showNameEn": "The Hitman's Bodyguard",
+                "soldType": "NORMAL",
+                "type": "动作,惊险",
+                "wantCount": "24189"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "大地9月特惠抢票，名额有限抢完即止",
+                        "id": "23336",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月3日，16点15分-24点；2017年9月4日-2017年9月30日，每日10点-24点，限时开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "美国",
+                "derivationList": [
+                    {
+                        "advertiseType": "16",
+                        "id": "9505",
+                        "label": "评测",
+                        "links": "https://h5.m.taopiaopiao.com/app/dianying/pages/alfheim/content.html?id=14151&s=dy&spm=dianying.dy_14151.30.1&cityCode=310100",
+                        "title": "小蜘蛛还没做好英雄归来的准备"
+                    }
+                ],
+                "director": "乔·沃茨",
+                "duration": "133",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "178285",
+                "leadingRole": "汤姆·赫兰德,小罗伯特·唐尼,玛丽莎·托梅,迈克尔·基顿",
+                "openDay": "2017-09-08 00:00:00",
+                "openTime": "2017-09-08",
+                "orderCount": "0",
+                "poster": "i4/TB1dTfubYsTMeJjSsziXXcdwXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61791845"
+                    }
+                ],
+                "remark": "8.3",
+                "showMark": "IMAX3D",
+                "showName": "蜘蛛侠：英雄归来",
+                "showNameEn": "Spider-Man: Homecoming",
+                "soldType": "NORMAL",
+                "type": "动作,冒险,科幻",
+                "wantCount": "597424"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "8.8元起",
+                        "activityTitle": "《英伦对决》特惠抢票，名额有限抢完即止",
+                        "id": "24376",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月15日-9月19日每天0:00-24:00，9月20-22每天10:00-22:00限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国大陆,英国",
+                "director": "马丁·坎贝尔",
+                "duration": "116",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "199280",
+                "leadingRole": "成龙,皮尔斯·布鲁斯南,刘涛,梁佩诗,夏莉·墨菲,斯蒂芬·霍根",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i3/TB1l3Ord3MPMeJjy1XbXXcwxVXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63197047"
+                    }
+                ],
+                "remark": "8.9",
+                "showMark": "3D",
+                "showName": "英伦对决",
+                "showNameEn": "The Foreigner",
+                "soldType": "PRE",
+                "type": "动作,剧情,犯罪",
+                "wantCount": "158820"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "15.8元起",
+                        "activityTitle": "《芳华》特惠抢票，名额有限抢完即止",
+                        "id": "24777",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月18日13点-9月30日，每日9点30-22点30，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国大陆",
+                "director": "冯小刚",
+                "duration": "136",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "211693",
+                "leadingRole": "黄轩,苗苗,钟楚曦,杨采钰",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i2/TB1FpXbdA.HL1JjSZFuXXX8dXXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63121108"
+                    }
+                ],
+                "remark": "6.5",
+                "showName": "芳华",
+                "showNameEn": "Youth",
+                "soldType": "PRE",
+                "type": "剧情,战争,爱情",
+                "wantCount": "79736"
+            },
+            {
+                "country": "中国大陆",
+                "director": "宋阳, 张吃鱼",
+                "duration": "100",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "217389",
+                "leadingRole": "艾伦,马丽,沈腾,田雨",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i3/TB1UwUFQVXXXXaeapXXXXXXXXXX_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61089287"
+                    }
+                ],
+                "remark": "8.8",
+                "showName": "羞羞的铁拳",
+                "showNameEn": "Never Say Die",
+                "soldType": "PRE",
+                "type": "喜剧,爱情",
+                "wantCount": "259465"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "8.8元起",
+                        "activityTitle": "《追龙》特惠，名额有限抢完即止",
+                        "id": "25023",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月20日17点30分开始，2017年9月21日-10月8日，每日10点-24点，限量开抢。先到先得，抢完即恢复原价。\t\t\t\t2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\t\t\t\t\t\t\t3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\t\t\t\t\t\t\t\t\t4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\t\t\t\t\t\t\t\t\t\t\t\t\t\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\t\t\t\t\t\t\t\t\t\t6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\t7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国香港,中国大陆",
+                "director": "王晶, 关智耀",
+                "duration": "128",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "214378",
+                "leadingRole": "甄子丹,刘德华,姜皓文",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i3/TB16DlwXGmgSKJjSsphXXcy1VXa_.jpg",
+                "preScheduleDates": [
+                    "1505923200"
+                ],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63715721"
+                    }
+                ],
+                "remark": "8.7",
+                "showName": "追龙",
+                "showNameEn": "Chasing the Dragon",
+                "soldType": "NORMAL",
+                "type": "动作,犯罪",
+                "wantCount": "43898"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "8.8元起",
+                        "activityTitle": "《空天猎》特惠抢票，名额有限抢完即止",
+                        "id": "24788",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：9月18日13：00-24:00，9月19日-9月24日每日10:00-24:00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国大陆",
+                "director": "李晨",
+                "duration": "115",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "李晨导演处女作，双雄争霸",
+                "id": "199753",
+                "leadingRole": "李晨,范冰冰,王千源,李佳航",
+                "openDay": "2017-09-29 00:00:00",
+                "openTime": "2017-09-29",
+                "orderCount": "0",
+                "poster": "i4/TB1.1b.XWagSKJjy0FcXXcZeVXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63256222"
+                    }
+                ],
+                "remark": "8.4",
+                "showName": "空天猎",
+                "showNameEn": "Sky Hunter",
+                "soldType": "PRE",
+                "type": "战争,剧情",
+                "wantCount": "92937"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "8.8元起",
+                        "activityTitle": "《极致追击》8.8元起抢票活动，抢完即止！",
+                        "id": "24861",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月20日-9月30日，每日10点/18点两波限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国大陆",
+                "director": "查尔斯·马丁",
+                "duration": "95",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "国际杂牌军，守护中国国宝",
+                "id": "190780",
+                "leadingRole": "奥兰多·布鲁姆,吴磊,任达华,昆凌,熊黛林",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i3/TB1AdZ1c.gQMeJjy0FgXXc5dXXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63548129"
+                    }
+                ],
+                "remark": "8.1",
+                "showMark": "3D",
+                "showName": "极致追击",
+                "showNameEn": "S.M.A.R.T. Chase",
+                "soldType": "PRE",
+                "type": "动作,犯罪,悬疑",
+                "wantCount": "167596"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "点映12.8元起",
+                        "activityTitle": "《昆塔·反转星球》特惠抢票，名额有限抢完即止",
+                        "id": "23891",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：9月8日15：30-24:00及9月9日-24日每日10:00-24：00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "中国大陆",
+                "director": "李炼",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "225630",
+                "leadingRole": "李正翔,洪海天,陶典,郭易峰,王肖兵,李传缨",
+                "openDay": "2017-10-01 00:00:00",
+                "openTime": "2017-10-01",
+                "orderCount": "0",
+                "poster": "i2/TB1Dx7Ihm3PL1JjSZFtXXclRVXa_.jpg",
+                "preScheduleDates": [
+                    "1506096000",
+                    "1506182400"
+                ],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62878426"
+                    }
+                ],
+                "remark": "8.2",
+                "showMark": "3D",
+                "showName": "昆塔：反转星球",
+                "showNameEn": "Axel: Adventures of the spacekids",
+                "soldType": "PRE",
+                "type": "动画,科幻",
+                "wantCount": "13918"
+            },
+            {
+                "country": "中国大陆",
+                "director": "董成鹏",
+                "duration": "117",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "大鹏再执导，拯救不开心",
+                "id": "212044",
+                "leadingRole": "董成鹏,乔杉,古力娜扎,李鸿其,韩童生,曲隽希",
+                "openDay": "2017-09-29 00:00:00",
+                "openTime": "2017-09-29",
+                "orderCount": "0",
+                "poster": "i1/TB1VMBzc9FRMKJjy0FhXXX.xpXa_.jpg",
+                "preScheduleDates": [
+                    "1506096000",
+                    "1506355200"
+                ],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63687027"
+                    }
+                ],
+                "remark": "9.4",
+                "showName": "缝纫机乐队",
+                "showNameEn": "City of Rock",
+                "soldType": "PRE",
+                "type": "喜剧,励志,音乐",
+                "wantCount": "45462"
+            },
+            {
+                "country": "中国大陆",
+                "director": "韩天",
+                "duration": "112",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "221269",
+                "leadingRole": "卜冠今,刘畅,李梦,黄觉",
+                "openDay": "2017-10-05 00:00:00",
+                "openTime": "2017-10-05",
+                "orderCount": "0",
+                "poster": "i3/TB1kJgkfUcKL1JjSZFzXXcfJXXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60471688"
+                    }
+                ],
+                "remark": "9.0",
+                "showName": "那一场呼啸而过的青春",
+                "showNameEn": "Only The Wind Knows",
+                "soldType": "PRE",
+                "type": "剧情,爱情,青春",
+                "wantCount": "18444"
+            },
+            {
+                "country": "西班牙",
+                "derivationList": [
+                    {
+                        "advertiseType": "16",
+                        "id": "9483",
+                        "label": "影评",
+                        "links": "https://h5.m.taopiaopiao.com/app/dianying/pages/alfheim/content.html?id=14884&s=dy&spm=dianying.dy_14884.30.1&cityCode=310100",
+                        "title": "不剧透！看得见的全程高能"
+                    }
+                ],
+                "director": "奥利奥尔·保罗",
+                "duration": "106",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "215307",
+                "leadingRole": "马里奥·卡萨斯,安娜·瓦格纳,佩雷·布拉索,何塞·卡罗纳多,芭芭拉·蓝妮",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i2/TB15rj6XqigSKJjSsppXXabnpXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63170014"
+                    }
+                ],
+                "remark": "9.3",
+                "showName": "看不见的客人",
+                "showNameEn": "The Invisible Guest",
+                "soldType": "NORMAL",
+                "type": "悬疑,剧情",
+                "wantCount": "34416"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "大地9月特惠抢票，名额有限抢完即止",
+                        "id": "23336",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：2017年9月3日，16点15分-24点；2017年9月4日-2017年9月30日，每日10点-24点，限时开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户活动期间内只限享受1次抢先购票机会，最多可购买2张特惠影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、不可退换规定：特惠电影票不可退换，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "country": "日本",
+                "director": "伊藤智彦",
+                "duration": "122",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "226894",
+                "leadingRole": "松冈祯丞,户松遥,伊藤加奈惠,竹达彩奈",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i1/TB1zF_3cwsSMeJjSspeXXa77VXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62421569"
+                    }
+                ],
+                "remark": "9.2",
+                "showName": "刀剑神域：序列之争",
+                "showNameEn": "Sword Art Online the Movie: Ordinal Scale",
+                "soldType": "NORMAL",
+                "type": "动画,动作,冒险",
+                "wantCount": "104074"
+            },
+            {
+                "country": "英国",
+                "director": "迈克尔·艾普特",
+                "duration": "99",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "157831",
+                "leadingRole": "劳米·拉佩斯,奥兰多·布鲁姆,托妮·科莱特,约翰·马尔科维奇",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i4/TB1xjl.eHwTMeJjSszfXXXbtFXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61374191"
+                    }
+                ],
+                "remark": "7.1",
+                "showName": "惊天解密",
+                "showNameEn": "Unlocked",
+                "soldType": "NORMAL",
+                "type": "动作,惊悚,悬疑",
+                "wantCount": "23209"
+            },
+            {
+                "country": "美国,英国,法国,荷兰",
+                "derivationList": [
+                    {
+                        "advertiseType": "16",
+                        "id": "9369",
+                        "label": "深度",
+                        "links": "https://h5.m.taopiaopiao.com/app/dianying/pages/alfheim/content.html?id=13357&s=dy&spm=dianying.dy_13357.30.1&cityCode=310100",
+                        "title": "诺兰迈向影史万神殿途中的一次调整"
+                    }
+                ],
+                "director": "克里斯托弗·诺兰",
+                "duration": "107",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "198714",
+                "leadingRole": "芬恩·怀特海德,汤姆·格林-卡尼,杰克·劳登",
+                "openDay": "2017-09-01 00:00:00",
+                "openTime": "2017-09-01",
+                "orderCount": "0",
+                "poster": "i4/TB1jw_xSpXXXXX3aFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59335807"
+                    }
+                ],
+                "remark": "8.4",
+                "showMark": "IMAX",
+                "showName": "敦刻尔克",
+                "showNameEn": "Dunkirk",
+                "soldType": "NORMAL",
+                "type": "剧情,战争",
+                "wantCount": "207999"
+            },
+            {
+                "country": "中国大陆",
+                "director": "吴京",
+                "duration": "123",
+                "fantastic": "5",
+                "fromSearch": "false",
+                "highlight": "犯我中华者，虽远必诛",
+                "id": "186599",
+                "leadingRole": "吴京,弗兰克·格里罗,吴刚",
+                "openDay": "2017-07-27 00:00:00",
+                "openTime": "2017-07-27",
+                "orderCount": "0",
+                "poster": "i1/TB1iRSWSXXXXXcVXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "57144920"
+                    }
+                ],
+                "remark": "9.5",
+                "showMark": "IMAX",
+                "showName": "战狼2",
+                "showNameEn": "Wolf Warriors Ⅱ",
+                "soldType": "NORMAL",
+                "type": "动作,战争",
+                "wantCount": "1199853"
+            },
+            {
+                "country": "英国",
+                "director": "大卫·斯特登",
+                "duration": "81",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "226985",
+                "leadingRole": "马克·莫拉根,特娜·德赛,约翰·海斯勒,约瑟夫·梅",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i2/TB1nmEAdwMPMeJjy1XbXXcwxVXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63067306"
+                    }
+                ],
+                "remark": "7.7",
+                "showName": "托马斯大电影之了不起的比赛",
+                "showNameEn": "Thomas & Friends: The Great Race",
+                "soldType": "PRE",
+                "type": "动画片",
+                "wantCount": "22516"
+            },
+            {
+                "country": "中国大陆",
+                "director": "史凤和",
+                "duration": "100",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "延安时间建党工作，登上大银幕",
+                "id": "205156",
+                "leadingRole": "佟瑞欣,刘冠翔",
+                "openDay": "2016-06-16 00:00:00",
+                "openTime": "2016-06-16",
+                "orderCount": "0",
+                "poster": "i2/TB1petZOFXXXXb3XFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "48154542"
+                    }
+                ],
+                "remark": "6.0",
+                "showName": "难忘的岁月",
+                "showNameEn": "Unforgettable Times",
+                "soldType": "NORMAL",
+                "type": "剧情",
+                "wantCount": "99"
+            },
+            {
+                "country": "中国大陆",
+                "director": "廖希, 韩平",
+                "duration": "109",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "219351",
+                "leadingRole": "白恩,赫子铭,吕星辰,王璐",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i2/TB1okI9cmRRMKJjy0FlXXXFepXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62925153"
+                    }
+                ],
+                "remark": "9.8",
+                "showName": "捍卫者",
+                "showNameEn": "Defenders",
+                "soldType": "NORMAL",
+                "type": "战争,动作,历史",
+                "wantCount": "3702"
+            },
+            {
+                "country": "中国大陆",
+                "director": "刘伟强",
+                "duration": "133",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "207955",
+                "leadingRole": "刘烨,朱亚文,黄志忠,王景春",
+                "openDay": "2017-07-27 00:00:00",
+                "openTime": "2017-07-27",
+                "orderCount": "0",
+                "poster": "i4/TB1S25JQFXXXXb1apXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59825980"
+                    }
+                ],
+                "remark": "8.7",
+                "showMark": "IMAX",
+                "showName": "建军大业",
+                "showNameEn": "The Founding of an Army",
+                "soldType": "NORMAL",
+                "type": "战争,剧情",
+                "wantCount": "159530"
+            },
+            {
+                "country": "中国大陆",
+                "director": "毕志飞",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "163573",
+                "leadingRole": "朱哲健,李彦漫,陈思瀚,张芷榕,毕志飞",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i4/TB1d4PzX2xNTKJjy0FjXXX6yVXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "50435591"
+                    }
+                ],
+                "remark": "7.8",
+                "showName": "纯洁心灵·逐梦演艺圈",
+                "showNameEn": "Pure Hearts:Into Chinese Showbiz",
+                "soldType": "PRE",
+                "type": "青春,励志,喜剧",
+                "wantCount": "74489"
+            },
+            {
+                "country": "中国大陆",
+                "director": "彭发",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "彭发新作，徐娇胡夏组cp",
+                "id": "195112",
+                "leadingRole": "徐娇,胡夏,鲁诺,蔡卓妍",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i1/TB18xyeSVXXXXc4XFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60762846"
+                    }
+                ],
+                "remark": "7.9",
+                "showName": "会痛的十七岁",
+                "showNameEn": "Growing pains",
+                "soldType": "NORMAL",
+                "type": "爱情",
+                "wantCount": "61837"
+            },
+            {
+                "country": "中国大陆,美国",
+                "director": "凯文·麦克唐纳, 凯文·麦克唐纳",
+                "duration": "73",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "219167",
+                "leadingRole": "蔡国强,Jeffrey Deitch,Thomas Krens,Orville Schell,张艺谋",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i4/TB1ovrFgU3IL1JjSZFMXXajrFXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62983114"
+                    }
+                ],
+                "remark": "9.0",
+                "showName": "天梯：蔡国强的艺术",
+                "showNameEn": "Sky Ladder: The Art of Cai Guo-Qiang",
+                "soldType": "PRE",
+                "type": "纪录片",
+                "wantCount": "4035"
+            },
+            {
+                "country": "日本",
+                "director": "山田尚子",
+                "duration": "111",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "224736",
+                "leadingRole": "入野自由,早见沙织,松冈茉优,悠木碧",
+                "openDay": "2017-09-08 00:00:00",
+                "openTime": "2017-09-08",
+                "orderCount": "0",
+                "poster": "i3/TB1NiSZX0.LL1JjSZFEXXcVmXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62420234"
+                    }
+                ],
+                "remark": "8.4",
+                "showName": "声之形",
+                "showNameEn": "The Shape of Voice",
+                "soldType": "NORMAL",
+                "type": "剧情,爱情,动画",
+                "wantCount": "77154"
+            },
+            {
+                "country": "德国,比利时,卢森堡,挪威,美国",
+                "director": "托比·格恩柯尔, 雷扎·梅马里",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227576",
+                "leadingRole": "妮可叶特·克雷毕兹,Marc Thompson,Jason Griffith,Marcus Off,Tilman Döbler",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i3/TB1LLxtXaagSKJjy0FhXXcrbFXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62929080"
+                    }
+                ],
+                "remark": "8.6",
+                "showMark": "3D",
+                "showName": "理查大冒险",
+                "showNameEn": "Richard The Stork",
+                "soldType": "PRE",
+                "type": "动画,冒险,喜剧",
+                "wantCount": "3328"
+            },
+            {
+                "country": "中国大陆",
+                "director": "于胜军, 施屹, 青松, 史学刚",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "穿越而来，警长有约",
+                "id": "33034",
+                "leadingRole": "赵路",
+                "openDay": "2017-09-23 00:00:00",
+                "openTime": "2017-09-23",
+                "orderCount": "0",
+                "poster": "i3/TB1Ir87dgMPMeJjy1XcXXXpppXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62957273"
+                    }
+                ],
+                "remark": "8.3",
+                "showName": "黑猫警长之翡翠之星",
+                "showNameEn": "Mr.Black: Green Star",
+                "soldType": "PRE",
+                "type": "动作,科幻,动画,喜剧",
+                "wantCount": "33067"
+            },
+            {
+                "country": "日本",
+                "director": "福田雄一",
+                "duration": "130",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "211692",
+                "leadingRole": "小栗旬,菅田将晖,桥本环奈,柳乐优弥,新井浩文,吉泽亮,早见明里,室毅,长泽雅美,冈田将生,佐藤二朗,菜菜绪,安田显,中村勘九郎,堂本刚",
+                "openDay": "2017-09-01 00:00:00",
+                "openTime": "2017-09-01",
+                "orderCount": "0",
+                "poster": "i1/TB1TtbBawsSMeJjSspeXXa77VXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61791834"
+                    }
+                ],
+                "remark": "8.1",
+                "showName": "银魂",
+                "showNameEn": "Gintama",
+                "soldType": "NORMAL",
+                "type": "喜剧,科幻,动作,剧情,冒险",
+                "wantCount": "200444"
+            },
+            {
+                "country": "美国",
+                "director": "布莱恩·菲",
+                "duration": "102",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "208910",
+                "leadingRole": "欧文·威尔逊,克里斯黛拉·阿朗索",
+                "openDay": "2017-08-25 00:00:00",
+                "openTime": "2017-08-25",
+                "orderCount": "0",
+                "poster": "i1/TB1SI3SSXXXXXagXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59850895"
+                    }
+                ],
+                "remark": "8.6",
+                "showMark": "IMAX3D",
+                "showName": "赛车总动员3：极速挑战",
+                "showNameEn": "Cars 3",
+                "soldType": "NORMAL",
+                "type": "动画,喜剧,冒险",
+                "wantCount": "127176"
+            },
+            {
+                "country": "爱尔兰",
+                "director": "保罗·名士",
+                "duration": "96",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "远古传说，现代演绎",
+                "id": "194804",
+                "leadingRole": "露丝·布莱德利,布莱丹·格里森,欧文·罗伊,巴里·沃德,利亚姆·坎宁安",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i1/TB1UPqldgsSMeJjSspcXXXjFXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "52355171"
+                    }
+                ],
+                "remark": "6.9",
+                "showName": "追击",
+                "showNameEn": "Pursuit",
+                "soldType": "NORMAL",
+                "type": "动作,爱情,犯罪",
+                "wantCount": "7270"
+            },
+            {
+                "country": "中国香港",
+                "director": "叶曦",
+                "duration": "114",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227235",
+                "leadingRole": "王敏奕,马志威",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i2/TB1xjNFfQ.HL1JjSZFuXXX8dXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62969748"
+                    }
+                ],
+                "remark": "8.3",
+                "showName": "初恋日记",
+                "showNameEn": "To Love Or Not To Love",
+                "soldType": "NORMAL",
+                "type": "爱情,剧情,喜剧",
+                "wantCount": "3639"
+            },
+            {
+                "country": "中国大陆",
+                "director": "邢博",
+                "duration": "90",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "226216",
+                "leadingRole": "罗翔,杨欣",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i2/TB1Zh5jSVXXXXceXFXXXXXXXXXX_.jpg",
+                "preview": [],
+                "remark": "4.4",
+                "showName": "画室惊魂",
+                "showNameEn": "The Frighten Studio",
+                "soldType": "NORMAL",
+                "type": "爱情,悬疑,惊悚",
+                "wantCount": "8864"
+            },
+            {
+                "country": "法国",
+                "director": "吕克·贝松",
+                "duration": "137",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "吕克·贝松新作，太空歌剧",
+                "id": "164895",
+                "leadingRole": "戴恩·德哈恩,卡拉·迪瓦伊,克里夫·欧文,吴亦凡",
+                "openDay": "2017-08-25 00:00:00",
+                "openTime": "2017-08-25",
+                "orderCount": "0",
+                "poster": "i4/TB1KXM8SFXXXXaIaXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "56253381"
+                    }
+                ],
+                "remark": "8.3",
+                "showMark": "IMAX3D",
+                "showName": "星际特工：千星之城",
+                "showNameEn": "Valerian and the City of a Thousand Planets",
+                "soldType": "NORMAL",
+                "type": "动作,冒险,科幻",
+                "wantCount": "130064"
+            },
+            {
+                "country": "中国大陆",
+                "director": "速达, 李晔",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "221349",
+                "leadingRole": "豆豆,范楚绒,胡谦,李晔",
+                "openDay": "2017-07-28 00:00:00",
+                "openTime": "2017-07-28",
+                "orderCount": "0",
+                "poster": "i3/TB18DHzSXXXXXXnapXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "58529868"
+                    }
+                ],
+                "remark": "8.4",
+                "showName": "大耳朵图图之美食狂想曲",
+                "showNameEn": "Dear Tutu",
+                "soldType": "NORMAL",
+                "type": "动画,喜剧,冒险",
+                "wantCount": "40255"
+            },
+            {
+                "country": "中国大陆",
+                "director": "王巍",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "224766",
+                "leadingRole": "侯勇,大张伟,金晨",
+                "openDay": "2017-10-01 00:00:00",
+                "openTime": "2017-10-01",
+                "orderCount": "0",
+                "poster": "i2/TB1mVdvXjihSKJjy0FfXXbGzFXa_.jpg",
+                "preScheduleDates": [],
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62886212"
+                    }
+                ],
+                "remark": "1.8",
+                "showName": "钢铁飞龙之再见奥特曼",
+                "showNameEn": "Dragon Force Movie",
+                "soldType": "PRE",
+                "type": "动画,动作,科幻",
+                "wantCount": "6329"
+            },
+            {
+                "country": "中国香港",
+                "director": "霍耀良",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "121897",
+                "leadingRole": "张国荣,陈百强,钟保罗",
+                "openDay": "2017-09-08 00:00:00",
+                "openTime": "2017-09-08",
+                "orderCount": "0",
+                "poster": "i3/TB1gJEZdeALL1JjSZFjXXasqXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62326378"
+                    }
+                ],
+                "remark": "8.7",
+                "showName": "失业生",
+                "showNameEn": "On Trial",
+                "soldType": "NORMAL",
+                "type": "剧情,励志,青春",
+                "wantCount": "36126"
+            },
+            {
+                "country": "中国大陆",
+                "director": "郭柯",
+                "duration": "99",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "不为人知的故事，不该被遗忘",
+                "id": "208908",
+                "leadingRole": "毛银梅,何玉珍,韦绍兰,李凤云",
+                "openDay": "2017-08-14 00:00:00",
+                "openTime": "2017-08-14",
+                "orderCount": "0",
+                "poster": "i2/TB14CIfSXXXXXXqXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "58581975"
+                    }
+                ],
+                "remark": "9.0",
+                "showName": "二十二",
+                "showNameEn": "Twenty Two",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "wantCount": "144617"
+            },
+            {
+                "country": "中国大陆",
+                "director": "汪洋",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227175",
+                "leadingRole": "苗侨伟,袁嘉敏,桑平",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i2/TB1NKNaarsTMeJjSszgXXacpFXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62013500"
+                    }
+                ],
+                "remark": "9.6",
+                "showName": "谜证",
+                "showNameEn": "In the fog",
+                "soldType": "PRE",
+                "type": "悬疑,剧情",
+                "wantCount": "2387"
+            },
+            {
+                "country": "中国台湾",
+                "director": "殷敬峰",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227510",
+                "leadingRole": "刘峻伟,陈曼青,张伟晋,周定纬,利晴天,冼色丽",
+                "openDay": "2017-09-20 00:00:00",
+                "openTime": "2017-09-20",
+                "orderCount": "0",
+                "poster": "i2/TB1ICfHdYsTMeJjSszhXXcGCFXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63241926"
+                    }
+                ],
+                "remark": "7.1",
+                "showName": "这一刻，我要世界看见",
+                "showNameEn": "Hit the beat",
+                "soldType": "NORMAL",
+                "type": "剧情,青春",
+                "wantCount": "3449"
+            },
+            {
+                "country": "中国大陆",
+                "director": "史东山",
+                "duration": "86",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "46693",
+                "leadingRole": "陈燕燕,郑君里,袁丛美,刘继群",
+                "openDay": "2017-09-17 00:00:00",
+                "openTime": "2017-09-17",
+                "orderCount": "0",
+                "poster": "i3/TB1ANwQcMb.PuJjSZFpXXbuFpXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "63108817"
+                    }
+                ],
+                "remark": "8.2",
+                "showName": "奋斗",
+                "showNameEn": "The Striving",
+                "soldType": "NORMAL",
+                "type": "爱情,剧情",
+                "wantCount": "408"
+            },
+            {
+                "country": "中国大陆",
+                "duration": "92",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "215321",
+                "openDay": "2014-05-16 00:00:00",
+                "openTime": "2014-05-16",
+                "orderCount": "0",
+                "poster": "i3/TB14xk5QpXXXXX9apXXXXXXXXXX_.jpg",
+                "preview": [],
+                "remark": "8.3",
+                "showName": "永远的焦裕禄",
+                "showNameEn": "The Eternity Of Jiao Yulu",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "wantCount": "34"
+            },
+            {
+                "country": "中国 中国香港",
+                "director": "徐克",
+                "duration": "141",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "穿林海跨雪原，徐克重塑经典",
+                "id": "967",
+                "leadingRole": "张涵予,梁家辉,林更新,余男",
+                "openDay": "2014-12-23 00:00:00",
+                "openTime": "2014-12-23",
+                "orderCount": "0",
+                "poster": "i3/TB1w4GeJpXXXXXJXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "38926762"
+                    }
+                ],
+                "remark": "8.8",
+                "showMark": "3D",
+                "showName": "智取威虎山",
+                "showNameEn": "Taking Tiger Montain By Strategy",
+                "soldType": "NORMAL",
+                "type": "剧情 动作 战争 冒险",
+                "wantCount": "552"
+            },
+            {
+                "country": "中国大陆",
+                "director": "殷国君",
+                "duration": "90",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "初恋遇变故，如何能圆满",
+                "id": "1057",
+                "leadingRole": "黄又南,邓紫衣,王妍苏,叶山豪",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i2/TB1RCGGhKEJL1JjSZFGXXa6OXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61656627"
+                    }
+                ],
+                "remark": "6.1",
+                "showName": "初恋时光",
+                "showNameEn": "Puppy Love",
+                "soldType": "PRE",
+                "type": "爱情,剧情",
+                "wantCount": "3713"
+            },
+            {
+                "country": "中国大陆,英国",
+                "director": "理查德·戴尔, 彼得·韦柏, 范立欣",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "224677",
+                "leadingRole": "理查德·戴尔,罗伯特·雷德福,成龙",
+                "openDay": "2017-08-11 00:00:00",
+                "openTime": "2017-08-11",
+                "orderCount": "0",
+                "poster": "i1/TB1dFC2SpXXXXbyXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59716873"
+                    }
+                ],
+                "remark": "8.9",
+                "showName": "地球：神奇的一天",
+                "showNameEn": "Earth：One Amazing Day",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "wantCount": "36010"
+            },
+            {
+                "country": "美国",
+                "director": "肯尼斯·罗纳根",
+                "duration": "136",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "160795",
+                "leadingRole": "卡西·阿弗莱克,卢卡斯·赫奇斯,米歇尔·威廉姆斯,凯尔·钱德勒",
+                "openDay": "2017-08-25 00:00:00",
+                "openTime": "2017-08-25",
+                "orderCount": "0",
+                "poster": "i4/TB1bQL4SFXXXXXUXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60071624"
+                    }
+                ],
+                "remark": "8.9",
+                "showName": "海边的曼彻斯特",
+                "showNameEn": "Manchester by the Sea",
+                "soldType": "NORMAL",
+                "type": "剧情,家庭",
+                "wantCount": "39121"
+            },
+            {
+                "country": "中国大陆",
+                "director": "张建亚",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "一个科学英雄的传奇一生，气节定天下",
+                "id": "843",
+                "leadingRole": "陈坤,张雨绮,张铁林,林永健",
+                "openDay": "2012-03-02 00:00:00",
+                "orderCount": "0",
+                "poster": "T1NZ8JXrVeXXb1upjX",
+                "preview": [],
+                "remark": "8.4",
+                "showName": "钱学森",
+                "showNameEn": "Hsue-shen Tsien",
+                "soldType": "NORMAL",
+                "type": "传记",
+                "wantCount": "94"
+            },
+            {
+                "country": "中国大陆",
+                "director": "唐昱",
+                "duration": "96",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "9337",
+                "leadingRole": "刘玉婷,段昊辰",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i1/TB19wmGhKALL1JjSZFjXXasqXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61413643"
+                    }
+                ],
+                "remark": "6.9",
+                "showName": "魔都爱之十二星座",
+                "showNameEn": "Love in City",
+                "soldType": "PRE",
+                "type": "剧情",
+                "wantCount": "1939"
+            },
+            {
+                "country": "中国大陆",
+                "director": "万籁鸣, 唐澄, 速达, 陈志宏",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "华语最经典动画人物，好莱坞最先进3D技术，倾力打造",
+                "id": "7965",
+                "leadingRole": "李扬,姚晨,陈佩斯,刘晓庆",
+                "openDay": "2017-09-30 00:00:00",
+                "openTime": "2017-09-30",
+                "orderCount": "0",
+                "poster": "i3/TB1stV3dgsSMeJjSspeXXa77VXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62957308"
+                    }
+                ],
+                "remark": "9.5",
+                "showName": "大闹天宫",
+                "showNameEn": "The Monkey King",
+                "soldType": "PRE",
+                "type": "动画",
+                "wantCount": "4354"
+            },
+            {
+                "country": "中国大陆",
+                "director": "李斌",
+                "duration": "87",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "225413",
+                "leadingRole": "陈圆,郑文杰,奇凌",
+                "openDay": "2017-09-08 00:00:00",
+                "openTime": "2017-09-08",
+                "orderCount": "0",
+                "poster": "i1/TB162mNSVXXXXatXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62011971"
+                    }
+                ],
+                "remark": "5.1",
+                "showName": "诡域新娘",
+                "showNameEn": "GHOST BRIDE",
+                "soldType": "NORMAL",
+                "type": "惊悚,恐怖",
+                "wantCount": "12226"
+            },
+            {
+                "country": "中国大陆",
+                "director": "张显",
+                "duration": "89",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227313",
+                "leadingRole": "马可,李毓芬,郑雅文,王修泽,李维贺",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i1/TB1LA7fc97PL1JjSZFHXXcciXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62245579"
+                    }
+                ],
+                "remark": "8.3",
+                "showName": "请勿靠近",
+                "showNameEn": "PLEASE KEEP AWAY",
+                "soldType": "PRE",
+                "type": "惊悚,悬疑,青春",
+                "wantCount": "3519"
+            },
+            {
+                "country": "中国大陆,中国香港",
+                "director": "阚家伟",
+                "duration": "99",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "214101",
+                "leadingRole": "任达华,陈小春,伍允龙,邱璐璠",
+                "openDay": "2017-08-31 00:00:00",
+                "openTime": "2017-08-31",
+                "orderCount": "0",
+                "poster": "i4/TB1.C0LawMPMeJjy1XdXXasrXXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61658067"
+                    }
+                ],
+                "remark": "7.8",
+                "showName": "黑白迷宫",
+                "showNameEn": "Colour of the Game",
+                "soldType": "NORMAL",
+                "type": "动作,警匪",
+                "wantCount": "24021"
+            },
+            {
+                "country": "中国大陆,中国香港",
+                "director": "叶伟信",
+                "duration": "101",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "208163",
+                "leadingRole": "古天乐,吴樾,林家栋,托尼·贾",
+                "openDay": "2017-08-17 00:00:00",
+                "openTime": "2017-08-17",
+                "orderCount": "0",
+                "poster": "i3/TB1W5y7SFXXXXXgapXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60431711"
+                    }
+                ],
+                "remark": "8.5",
+                "showName": "杀破狼·贪狼",
+                "showNameEn": "Paradox",
+                "soldType": "NORMAL",
+                "type": "动作,剧情,犯罪",
+                "wantCount": "124862"
+            },
+            {
+                "country": "墨西哥",
+                "director": "莱奥波尔多·阿圭勒",
+                "duration": "81",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "225680",
+                "leadingRole": "陆川,刘仪伟,姚晨,郭涛,张一白,丁晟,张杨",
+                "openDay": "2017-09-09 00:00:00",
+                "openTime": "2017-09-09",
+                "orderCount": "0",
+                "poster": "i1/TB1HJiFXPoIL1JjSZFyXXbFBpXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62334882"
+                    }
+                ],
+                "remark": "7.8",
+                "showName": "怪物岛",
+                "showNameEn": "Monster Island",
+                "soldType": "NORMAL",
+                "type": "喜剧,动画,冒险",
+                "wantCount": "9780"
+            },
+            {
+                "country": "中国大陆",
+                "director": "卢恒宇, 李姝洁",
+                "duration": "101",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "219428",
+                "leadingRole": "皇贞季",
+                "openDay": "2017-08-18 00:00:00",
+                "openTime": "2017-08-18",
+                "orderCount": "0",
+                "poster": "i1/TB1CdH3SpXXXXc0aXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59969788"
+                    }
+                ],
+                "remark": "8.7",
+                "showName": "十万个冷笑话2",
+                "showNameEn": "One Hundred Thousand Bad Jokes II",
+                "soldType": "NORMAL",
+                "type": "喜剧,动画",
+                "wantCount": "108891"
+            },
+            {
+                "country": "中国",
+                "director": "丁晟",
+                "duration": "124",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "成龙硬汉萌，偶像抗日寇",
+                "id": "165012",
+                "leadingRole": "成龙,黄子韬,房祖名,王凯",
+                "openDay": "2016-12-23 00:00:00",
+                "openTime": "2016-12-23",
+                "orderCount": "0",
+                "poster": "i3/TB1J4YKOFXXXXbRXVXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "48381943"
+                    }
+                ],
+                "remark": "8.7",
+                "showMark": "3D",
+                "showName": "铁道飞虎",
+                "showNameEn": "Railroad Tigers",
+                "soldType": "NORMAL",
+                "type": "剧情 喜剧 动作",
+                "wantCount": "83882"
+            },
+            {
+                "country": "美国,英国",
+                "director": "埃德加·赖特",
+                "duration": "109",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "214098",
+                "leadingRole": "安塞尔·埃尔格特,莉莉·詹姆斯,凯文·史派西,杰米·福克斯,艾莎·冈萨雷斯,乔·哈姆",
+                "openDay": "2017-08-25 00:00:00",
+                "openTime": "2017-08-25",
+                "orderCount": "0",
+                "poster": "i3/TB1gz7tSFXXXXc8XFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60797203"
+                    }
+                ],
+                "remark": "7.9",
+                "showName": "极盗车神",
+                "showNameEn": "Baby Driver",
+                "soldType": "NORMAL",
+                "type": "动作,爱情,犯罪",
+                "wantCount": "95818"
+            },
+            {
+                "country": "中国大陆",
+                "director": "张恒",
+                "duration": "78",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227329",
+                "leadingRole": "阿桑,吴凡,孙科,张洋",
+                "openDay": "2017-09-16 00:00:00",
+                "openTime": "2017-09-16",
+                "orderCount": "0",
+                "poster": "i4/TB1f5x5dekJL1JjSZFmXXcw0XXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62274172"
+                    }
+                ],
+                "remark": "5.4",
+                "showName": "真假森林王",
+                "showNameEn": "King of forest",
+                "soldType": "NORMAL",
+                "type": "动画,喜剧",
+                "wantCount": "1678"
+            },
+            {
+                "country": "中国大陆",
+                "director": "孟奇",
+                "duration": "95",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "222873",
+                "leadingRole": "刘一含,刘畅,战卫华",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i1/TB1S6AOcjJTMKJjSZFPXXbHUFXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62235185"
+                    }
+                ],
+                "remark": "6.4",
+                "showName": "娘子军传奇",
+                "showNameEn": "The Women Solediers' Legend",
+                "soldType": "PRE",
+                "type": "剧情,战争",
+                "wantCount": "968"
+            },
+            {
+                "country": "中国大陆",
+                "director": "韩汶青",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227512",
+                "leadingRole": "李靓雨,张越宁,李大宝,王康杰,魏凡剀",
+                "openDay": "2017-09-22 00:00:00",
+                "openTime": "2017-09-22",
+                "orderCount": "0",
+                "poster": "i3/TB1nfvKcbsTMeJjSszhXXcGCFXa_.jpg",
+                "preview": [],
+                "remark": "7.2",
+                "showName": "遗忘空间",
+                "showNameEn": "Forgetting Space",
+                "soldType": "PRE",
+                "type": "悬疑,惊悚",
+                "wantCount": "966"
+            },
+            {
+                "country": "中国大陆",
+                "director": "李柯, 何伟斌",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "226088",
+                "leadingRole": "石雨晴,古铭瀚,江森,谢璞婉,谢璞婉,江森",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i4/TB1UtBYSFXXXXbYaXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "62647561"
+                    }
+                ],
+                "remark": "6.8",
+                "showName": "纹身师",
+                "showNameEn": "The Tattooist",
+                "soldType": "NORMAL",
+                "type": "爱情,悬疑,惊悚",
+                "wantCount": "3147"
+            },
+            {
+                "country": "中国大陆",
+                "director": "颢然",
+                "duration": "93",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "202310",
+                "leadingRole": "孙坚,陈燃,汪洋,王学敏,齐超",
+                "openDay": "2017-09-08 00:00:00",
+                "openTime": "2017-09-08",
+                "orderCount": "0",
+                "poster": "i4/TB1vR4tb8cHL1JjSZJiXXcKcpXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "61897070"
+                    }
+                ],
+                "remark": "7.3",
+                "showName": "蜜月计划",
+                "showNameEn": "Honeymoon Plan",
+                "soldType": "NORMAL",
+                "type": "爱情,喜剧",
+                "wantCount": "14941"
+            },
+            {
+                "country": "中国大陆",
+                "director": "戴玮",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "216210",
+                "leadingRole": "朱茵,杜天皓,王志飞,黄征",
+                "openDay": "2017-08-31 00:00:00",
+                "openTime": "2017-08-31",
+                "orderCount": "0",
+                "poster": "i3/TB1pzP6cnwKL1JjSZFgXXb6aVXa_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60695981"
+                    }
+                ],
+                "remark": "8.3",
+                "showName": "二次初恋",
+                "showNameEn": "Once Again",
+                "soldType": "NORMAL",
+                "type": "爱情,奇幻,喜剧",
+                "wantCount": "30051"
+            },
+            {
+                "country": "中国大陆",
+                "director": "谢东燊",
+                "duration": "110",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "致敬经典犯罪片，连环杀手下战书",
+                "id": "194496",
+                "leadingRole": "李易峰,廖凡,万茜",
+                "openDay": "2017-08-11 00:00:00",
+                "openTime": "2017-08-11",
+                "orderCount": "0",
+                "poster": "i4/TB1Y0Q1SXXXXXXwXFXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "60016588"
+                    }
+                ],
+                "remark": "7.9",
+                "showName": "心理罪",
+                "showNameEn": "Guilty of Mind",
+                "soldType": "NORMAL",
+                "type": "动作,悬疑,犯罪",
+                "wantCount": "228116"
+            },
+            {
+                "country": "中国香港",
+                "director": "黄进",
+                "duration": "103",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "214028",
+                "leadingRole": "余文乐,曾志伟,方皓玟,金燕玲",
+                "openDay": "2017-04-07 00:00:00",
+                "openTime": "2017-04-07",
+                "orderCount": "0",
+                "poster": "i2/TB1eLmwQpXXXXc8XpXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "53531759"
+                    }
+                ],
+                "remark": "8.5",
+                "showName": "一念无明",
+                "showNameEn": "Mad World",
+                "soldType": "NORMAL",
+                "type": "剧情 亲情",
+                "wantCount": "8680"
+            },
+            {
+                "country": "中国",
+                "director": "陈为军",
+                "duration": "105",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "highlight": "我们从何而来？40个孕育故事",
+                "id": "209417",
+                "leadingRole": "李家福,夏锦菊,陈小凤,李双双,曾宪春",
+                "openDay": "2016-12-16 00:00:00",
+                "openTime": "2016-12-16",
+                "orderCount": "0",
+                "poster": "i3/TB1_REQOpXXXXbFXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "48199759"
+                    }
+                ],
+                "remark": "9.0",
+                "showName": "生门",
+                "showNameEn": "This Is Life",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "wantCount": "3557"
+            },
+            {
+                "country": "中国大陆",
+                "director": "江流",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "225898",
+                "leadingRole": "艾丽娅,郭月,王尉,田爽,滕宇飞,郭月,杨心仪,田爽,王尉,滕宇飞,王尉,杨心仪",
+                "openDay": "2017-09-15 00:00:00",
+                "openTime": "2017-09-15",
+                "orderCount": "0",
+                "poster": "i2/TB1VmVJSFXXXXc_XpXXXXXXXXXX_.jpg",
+                "preview": [],
+                "remark": "7.2",
+                "showName": "阿婆的槟榔",
+                "showNameEn": "An old woman and the betelnut",
+                "soldType": "NORMAL",
+                "type": "剧情,爱情",
+                "wantCount": "2176"
+            },
+            {
+                "country": "中国大陆",
+                "director": "高峰",
+                "duration": "112",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "217489",
+                "leadingRole": "刘佩琦,曹云金,罗昱焜",
+                "openDay": "2017-08-04 00:00:00",
+                "openTime": "2017-08-04",
+                "orderCount": "0",
+                "poster": "i3/TB1ggtVRXXXXXcPXXXXXXXXXXXX_.jpg",
+                "preview": [
+                    {
+                        "state": "1",
+                        "videoId": "59696123"
+                    }
+                ],
+                "remark": "8.2",
+                "showName": "龙之战",
+                "showNameEn": "The War of Loong",
+                "soldType": "NORMAL",
+                "type": "动作,战争,历史",
+                "wantCount": "12132"
+            }
+        ]
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}
