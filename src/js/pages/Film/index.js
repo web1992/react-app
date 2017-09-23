@@ -18,30 +18,24 @@ class Film extends React.Component {
     render() {
         return (
             <div id='filmList'>
-                <div>
-                    <img className='filmImage' src={imag_url + '/' +fimeInfo.poster} />
+                <div className='filmImageDiv'>
+                    <img className='filmImage' src={imag_url + '/' + fimeInfo.poster} />
                 </div>
 
-                <h2 className='filmH2'>{fimeInfo.showName}</h2><span className='maxIonc'>xxx</span>
-                <div className='remakr'>
-                {/* 评分 */}
-                     
-                   <Star remarkScore={fimeInfo.remark}/> 
-                </div>
-                <p>导演: {fimeInfo.director}</p>
-                <p>主演: {fimeInfo.leadingRole}</p>
+                <div className='filmDesc'>
+                    <div className='filmHeadDiv'>
+                        <h4 className='filmH4 filmText'>{fimeInfo.showName}</h4><span className='maxIonc'>{fimeInfo.showMark}</span>
+                    </div>
 
-                <hr />
-                <div>
-                    热评
-                </div>
-                <hr />
-                <div>
-                    解析
-                </div>
+                    <div className='remakr'>
+                        <Star remarkScore={fimeInfo.remark} />
+                    </div>
+                    <p className='filmText'>导演: {fimeInfo.director}</p>
+                    <p className='filmText'>主演: {fimeInfo.leadingRole}</p>
 
-                <div>
-                    购票
+                </div>
+                <div className='filmBuy'>
+                    <p>购票</p>
                 </div>
             </div>
         );

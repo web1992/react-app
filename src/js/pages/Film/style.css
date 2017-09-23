@@ -1,4 +1,58 @@
+
+.filmList{
+    width: 100%;
+    height: 8em;
+   
+    margin: 0;
+    padding:0;
+}
+.filmH4{
+   
+    display: inline;
+}
+.filmHeadDiv{
+    margin: 6px 0 12px 0;
+}
+.remakr{
+    margin: 6px 0 6px 0;
+    display: block;
+}
+.maxIonc{
+    text-align: center;
+    color: red;
+    font-size: 3px;
+    margin:  0px 0 6px 0;
+    float: right;
+}
+.filmImageDiv{
+  
+    width: 20%;
+    float: left;
+}
 .filmImage{
-    width: 80px;
-    height: 100px;
+   
+    width: 100%;
+    height: 8em;
+}
+
+.filmText{
+    margin:  8px 0 6px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.filmDesc{
+    margin:0px 0px 0px 0px;
+    height: 8em;
+    float: right;
+    width: 70%;
+
+}
+
+.filmBuy{
+    width: 10%;
+    float: right;
+    height: 8em;
+    color:red;
 }
