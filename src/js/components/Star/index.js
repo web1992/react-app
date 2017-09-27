@@ -30,8 +30,8 @@ class Star extends React.Component {
             starEmptyElement = <img src={starEmptyIonic} className='starSize' />
         }
         return (
-            <div>
-                {starsArr}{starEmptyElement}{score}
+            <div className="starList">
+                {starsArr}{starEmptyElement} <span>{score}</span>
             </div>
         );
 

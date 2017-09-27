@@ -1,10 +1,10 @@
 
 .filmList{
     width: 100%;
-    height: 8em;
+    height: 120px;
    
     margin: 0;
-    padding:0;
+    padding:2 0 2 0;
 }
 .filmH4{
    
@@ -19,20 +19,20 @@
 }
 .maxIonc{
     text-align: center;
-    color: red;
+    color: #EC1C1C;
     font-size: 3px;
     margin:  0px 0 6px 0;
     float: right;
 }
 .filmImageDiv{
   
-    width: 20%;
+    width: 18%;
     float: left;
 }
 .filmImage{
    
     width: 100%;
-    height: 8em;
+    height: 100px;
 }
 
 .filmText{
@@ -41,18 +41,42 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
-
+.filmDetail{
+    float: right;
+    width: 80%;
+}
 .filmDesc{
     margin:0px 0px 0px 0px;
-    height: 8em;
-    float: right;
-    width: 70%;
+    height: 100px;
+    float: left;;
+    width: 80%;
 
 }
 
-.filmBuy{
+.filmDesc p{
+    font-size: 9px;
+    margin:2 0 2 0;
+    color: gray;
+}
+
+.filmBuy{   
     width: 10%;
     float: right;
-    height: 8em;
-    color:red;
+    height: 100px;
+    color:#DD6262;
+    width: 20%;
+    margin: 0px 0px 0px 0px;
+}
+
+.filmBuy p {   
+    text-align: center; 
+    font-size: 9px;
+    height:36px; 
+    width: 50px;
+    line-height:36px;  
+    overflow:hidden;
+    margin: 32px 0px 32px 6px;
+    border:1px solid;   
+    border-radius:8px;
+    -moz-border-radius:8px; /* Old Firefox */
 }
