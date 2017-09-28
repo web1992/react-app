@@ -17,11 +17,12 @@
     margin: 6px 0 6px 0;
     display: block;
 }
-.maxIonc{
+.maxIonc{   
+    display: inline;
     text-align: center;
     color: #EC1C1C;
-    font-size: 3px;
-    margin:  0px 0 6px 0;
+    font-size: 10%;
+    margin:  0 0 0 0;
     float: right;
 }
 .filmImageDiv{
@@ -49,7 +50,7 @@
     margin:0px 0px 0px 0px;
     height: 100px;
     float: left;;
-    width: 80%;
+    width: 70%;
 
 }
 
@@ -58,14 +59,34 @@
     margin:2 0 2 0;
     color: gray;
 }
-
-.filmBuy{   
+.filmAction{
     width: 10%;
     float: right;
     height: 100px;
-    color:#DD6262;
-    width: 20%;
+    width: 30%;
     margin: 0px 0px 0px 0px;
+}
+.filmTags{
+    height: 34px;
+    margin: 0px 0px 0px 0px;
+}
+.filmTags img {
+    width: 28px;
+    height: 32px;
+    margin: 0px 0px 0px 6px;
+}
+.filmBuy{   
+    height: 40px;
+    color:#DD6262;
+    margin: 0px 0px 0px 0px;
+}
+.fimlActivities{
+    height: 30px;
+    line-height:16px;  
+    text-align: center; 
+    font-size: 9px;
+    margin: 0px 0px 0px 0px;
+    color:#DD6262;
 }
 
 .filmBuy p {   
@@ -75,7 +96,14 @@
     width: 50px;
     line-height:36px;  
     overflow:hidden;
-    margin: 32px 0px 32px 6px;
+    /* margin: 0px 10px 0px 10px; */
+    /* 居中 start */
+    position: relative;
+    margin: auto;
+    top: 0; left: 0; right: 0; bottom: 0;
+    overflow: auto;
+    /* 居中 end */
+
     border:1px solid;   
     border-radius:8px;
     -moz-border-radius:8px; /* Old Firefox */

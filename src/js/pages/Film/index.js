@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './style.css';
 
+import hottest_weekly from './resources/hottest_weekly.png';
+import mark_best from './resources/mark_best.png';
+
 import Star from '../../components/Star';
 // 数据模拟
 let mockFilmJson = require('./data/mock-film.json');
@@ -34,9 +37,19 @@ class Film extends React.Component {
                         <p className='filmText'>主演: {fimeInfo.leadingRole}</p>
 
                     </div>
-                    <div className='filmBuy'>
-                        <p>购票</p>
+                    <div className="filmAction">
+                        <div className="filmTags">
+                            <img src={hottest_weekly} alt=""/>
+                            <img src={mark_best} alt=""/>
+                        </div>
+                        <div className='filmBuy'>
+                            <p>购票</p>
+                        </div>
+                        <div className="fimlActivities">
+                            <span>{fimeInfo.activities[0].activityTag}</span>
+                        </div>
                     </div>
+
                 </div>
 
             </div>
