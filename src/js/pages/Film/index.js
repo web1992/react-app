@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import axios from 'axios';
 import './style.css';
 
 import hottest_weekly from './resources/hottest_weekly.png';
@@ -11,11 +12,28 @@ let mockFilmJson = require('./data/mock-film.json');
 
 let fimeInfo = mockFilmJson.data.returnValue[0];
 
-const imag_url = 'https://gw.alicdn.com/tfscom/'
+const imag_url = 'https://gw.alicdn.com/tfscom/';
+
+const url_json = 'https://api.maoyan.com/mmdb/movie/v3/list/hot.json?uuid=327E83F875CC98CEECFA2DD4B250DFE4F45D5D88507AD3792A3C58360030DA53&utm_source=AppStore&utm_term=7.8&utm_content=327E83F875CC98CEECFA2DD4B250DFE4F45D5D88507AD3792A3C58360030DA53&version_name=7.8&userid=601037841&utm_medium=iphone&movieBundleVersion=100&utm_campaign=AmovieBmovieD100H0&__reqTraceID=BB82CA39-EB5F-45E7-BF53-2F0CB549C84F&limit=12&ci=10&client=iphone&msid=893ADCD1-6001-47C8-8EE0-98A42908191C2017-09-28-17-57805';
+// const url_json = 'http://localhost:3001/mmdb/movie/v3/list/hot.json?uuid=327E83F875CC98CEECFA2DD4B250DFE4F45D5D88507AD3792A3C58360030DA53&utm_source=AppStore&utm_term=7.8&utm_content=327E83F875CC98CEECFA2DD4B250DFE4F45D5D88507AD3792A3C58360030DA53&version_name=7.8&userid=601037841&utm_medium=iphone&movieBundleVersion=100&utm_campaign=AmovieBmovieD100H0&__reqTraceID=BB82CA39-EB5F-45E7-BF53-2F0CB549C84F&limit=12&ci=10&client=iphone&msid=893ADCD1-6001-47C8-8EE0-98A42908191C2017-09-28-17-57805';
+
 class Film extends React.Component {
     constructor(props) {
         super(props);
         console.log(mockFilmJson.api);
+        var instance = axios.create({
+            baseURL: 'https://some-domain.com/api/',
+            timeout: 1000,
+            headers: {'Access-Control-Allow-Origin': '*','Access-Control-Allow-Methods': 'GET,POST'}
+          });
+
+          instance.get(url_json)
+          .then(function (response) {
+            console.log(response);
+          })
+          .catch(function (error) {
+            console.log(error);
+          });
     }
 
 
